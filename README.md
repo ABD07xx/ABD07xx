@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Abdullah Fazili</h1>
-<h3 align="center">Passionate about machine learning and data-driven decision-making</h3>
+<h3 align="center">Passionate about machine learning and NLP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abd07xx&label=Profile%20views&color=0e75b6&style=flat" alt="abd07xx" /> </p>
 
